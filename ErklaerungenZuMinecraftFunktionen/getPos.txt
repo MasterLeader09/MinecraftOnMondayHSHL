@@ -1,0 +1,18 @@
+Die Funktion "mc.player.getPos()" gibt die Position deines Avatars zurück. Da diese Funktion Werte zurück gibt, müssen diese in einer Variable abgespeichert werden!
+
+Die Koordinaten des Spielers werden bei dieser Funktion als Kommazahlen angegeben!
+
+Beispiel: Wir wollen die Koordinaten des Spielers in der Variable positiion abspeichern:
+
+position = mc.player.getPos()
+
+Wir erhalten Zugriff auf die einzelnen Koordinaten des Spielers durch das Anfügen eines Punkts und eines x, y oder z:
+
+position.x oder position.y oder position.z
+
+Auch diese Werte können wir einzeln abspeichern:
+
+x = position.x
+y = position.y
+z = position.z
+

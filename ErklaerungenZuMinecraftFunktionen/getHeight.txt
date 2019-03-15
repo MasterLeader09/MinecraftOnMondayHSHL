@@ -1,0 +1,20 @@
+Die Funktion "mc.getHeight()" gibt die Höhe von der in den Klammern befindlichen Position an.
+
+!Hierbei werden keine Luftböcke berücksichtigt!
+
+Als Koordinaten müssen nur ein x und ein z Wert angegeben werden.
+
+Da die Funktion einen Wert zurück gibt, muss hier eine Variable diesen Wert auffangen (siehe Beispiel)
+
+Beispiel:
+
+Wir wollen wissen, wie hoch die Welt an der Stelle x=2 und z=20 ist:
+
+hoehe = mc.getHeigt(2,20)
+
+oder
+
+x = 2
+z = 20
+hoehe = mc.getHeigt(x,z)
+

@@ -1,0 +1,1 @@
+Mit dem Befehl "ls" kannst du dir alle Ordner und Datein anzeigen lassen, welche sich in dem aktuellen Ordner befinden

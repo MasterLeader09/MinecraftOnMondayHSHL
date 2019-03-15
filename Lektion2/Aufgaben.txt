@@ -1,0 +1,9 @@
+1. teleportiereAvatarZurWunschposition.py
+	Das Programm liest drei Koordinaten ein, die die neue Position deines Avatars festlegen.
+	--> Schreibe das Programm so um, dass dein Avatar nicht unter die Erde teleportiert werden kann
+	--> TIPP: Ein Teleport darf nur durchgeführt werden, wenn sie neue Position ein Luftblock ist
+
+2. unterDerErde.py
+	Dieses Programm liest den Standort deines Avatars ein und speichert die Positionsdaten in drei Parametern (x, y, z)
+	--> Schreibe das Programm so um, dass eine Nachricht erscheint, ob dein Avatar sich ober- oder unterirdisch befindet
+	--> Tipp: Die Grenze liegt bei y = 0

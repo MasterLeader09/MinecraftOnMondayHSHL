@@ -1,0 +1,7 @@
+Mit dem Befehlt "cd" kannst du im Terminal den Ordner wechseln.
+
+Wenn du Beispielsweise cd MinecraftOnMonday eingibst, wechselt das Terminal in den Ordner MinecraftOnMonday (sofern dieser in dem Ordner ist, in dem du dich gerade befindest!)
+
+Mit cd .. welchselst du im Terminal eine Ordernerebene nach oben. 
+
+Mit cd wechelst du in den Home Ordner

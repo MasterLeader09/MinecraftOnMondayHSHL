@@ -1,0 +1,9 @@
+1. setzeEinenBlock.py
+    --> Verändere das Programm so, dass die Position für den zu setzenden Stein durch Variablen in die Funktion setBlock festgelegt wird
+
+2. teleportiereAvatar.py
+    --> Teleportiere den Avatar 60 Höheneinheiten über die Startposition (die Startposition befindet sich bei (0, 0, 0)
+    --> Erweitere das Programm so, dass der Avatar nach dem Teleport immer festen Boden unter den Füßen hat
+
+3. bekommeBlock.py
+	--> Erweitere das Programm so, dass der Blocktyp, auf welchem dein Avatar steht, im Spiel als Nummer zurück gegeben wird. Falls du in der Luft bist, muss auch eine 0 zurück gegeben werden. Wenn du auf einer Wiese stehst, die 5

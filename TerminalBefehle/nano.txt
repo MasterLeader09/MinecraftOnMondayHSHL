@@ -1,0 +1,4 @@
+Mit dem Befehl "nano" startest du den Texteditor. Du musst dabei den Namen der Datei angeben, welche du ändern möchtest.
+Falls du eine neue Datei schreiben möchtest, gibst du einen neuen Namen an
+
+Mit dem Befehl nano test.py bearbeitest oder erstellst (je nachdem, ob sie schon existiert" du die Datei test.py

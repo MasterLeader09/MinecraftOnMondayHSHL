@@ -1,0 +1,17 @@
+1. baueEineTreppe.py
+	--> Dieses Programm besitzt aktuell nur die Importation der Minecraft-Klasse sowie die Definition der mc Variable
+	--> Ermittle die Position deines Avatars
+	--> Baue an dieser Stelle eine Treppe, welche 10 Stufen hoch ist (Verwende hierzu eine Schleife!)
+
+2. verfolgeAvatarMitWasser.py
+	--> Dieses Programm besitzt aktuell nur die Importation der Minecraft-Klasse sowie die Definition der mc Variable
+	--> Lass deinen Avatar von Wasser verfolgen, bis du das Programm abbrichst
+	--> TIPP: Die Blocknummer von Wasser ist 8
+	
+3. teleportiereAvatarZurZufallsposition.py
+	--> Dieses Programm erstellt aktuell drei Zufallszahlen, welche als neue Positionsdaten für deinen Avatar verwendet werden
+	--> Verändere das Programm so, dass dein Avatar nicht unter die Erde teleportiert werden kann
+	--> Lasse deinen Avatar mindestens fünf mal teleportieren, nach jeder Teleportation soll das Programm für fünf Sekunden pausiert werden
+	--> TIPP: Importiere dir das Modul time mit dem Befehl "import time" - mit der Funktion "time.sleep(HIER ANZAHL DER SEKUNDEN EINTRAGEN)" kannst du ein Programm pausieren lassen
+	--> Gebe nach jeder erfolgreichen Teleportation aus, wie häufig du dich bereits teleportiert hast
+

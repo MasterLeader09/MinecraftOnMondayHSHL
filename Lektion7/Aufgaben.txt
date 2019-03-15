@@ -1,0 +1,10 @@
+1. speichereLandschaft.py
+--> In diesem Programm soll ein Stück Landschaft abgespeichert werden
+--> Die Informationen sollen in einem sepraten File abgespeichert werden, damit dieses Stück Landschaft in einer neuen Welt ausgegeben werden kann
+--> Tipp: Um die Eckdaten der Landschaft zu bestimmen, solltest du deinen Avatar verwenden
+--> Tipp: Der Avatar läuft die Eckdaten der zu speichernden Landschaft ab
+--> Tipp: Du musst zwei Koordinaten vom Avatar empfangen. Baue in deinem Programm eine Möglichkeit ein, dass das Programm mit dem Abspeichern erst dann anfängt, wenn du beide Positionsdaten bestimmt hast.
+
+2. baueGespeicherteLandschaft.py
+--> Öffne eine neue Welt in Minecraft
+--> Schreibe das Programm so um, dass es Landschaften über Files einlesen kann und diese dann in der aktuellen Welt einbaut

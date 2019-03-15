@@ -1,0 +1,3 @@
+Mit dem Befehl "mkdir" erstellst du einen neuen Ordner. Hierbei musst du unbedingt einen Namen angeben.
+
+Wenn du einen Ordner mit dem Namen Minecraft erstellen möchtest, so schreibst du mkdir Minecraft

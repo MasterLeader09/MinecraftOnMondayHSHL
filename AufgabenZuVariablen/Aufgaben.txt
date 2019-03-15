@@ -1,0 +1,18 @@
+Diese Aufgaben sind optional und gehören nicht zum Pflichtteil. Sie ergänzen den Theorieteil um Variablen
+
+1. Öffne das Skript Variablen1.py
+--> In diesem Programm wird der Spieler von Wasser verfolgt. Die Funktion mc.setBlock benutzt dazu den Baustein mit der Nummer 8.
+Verändere das Programm so, dass in der Funktion mc.setBlock nicht 8, sondern eine Variable verwendet wird, um den Spieler mit Wasser zu verfolgen.
+
+2. Öffne das Skript Variablen2.py
+-->Das Programm schreibt in den Minecraftchat eine Aussage. Leider ist diese nicht vollständig.
+Verändere das Programm so, dass die Variable golderz in die Funktion mc.postToChat eingefügt wird und die Aussage somit korrekt wird.
+
+3. Öffne das Skript Variablen3.py
+-->Das Programm kontrolliert, ob der Spieler sich im Wasser oder in der Lava befindet. Für die Abfragen nutzt er allerdings die Blocknummern 8 für Wasser und 10 für Lava.
+Verändere das Programm so, dass Variablen in den if bzw. elif Bedingungen verwendet werden.
+
+4. Öffne das Skript Variablen4.py
+-->Dieses Programm setzt unter den Spieler entweder einen Gold oder einen Diamantblock - Jedes mal, wenn der Spieler die Position wechselt, wird auch der Bausteinblock zwischen Diamant und Gold gewechselt.
+Die Variablen Gold und Diamant wurden definiert, werden im weiteren Verlauf des Programms nicht verwendet.
+Verändere das Programm so, dass die Variablen Gold und Diamant genutzt werden, anstatt der Zahlen 41 und 57 (mit Außnahme von den Stellen, wo diese beiden Variablen definiert werden

@@ -1,0 +1,22 @@
+Die Funktion "mc.setBlocks" setzt mehrere Blöcke in die Welt. Die gesetzten Blöcke haben immer die Form eines Quaders (ein Würfel ist auch ein Quader, ein Quader aber nicht immer ein Würfel!)
+
+Die Funktion erwartet insgesamt 7 Zahlen!
+
+Die ersten 3 Zahlen geben die Startposition des Setzens der Blöcke an. Die nächsten 3 Zahlen die Zielposition. Die 7te Zahl gibt den Blocktyp an, mit welchem der zu setzende Quader gefüllt wird.
+
+Beispiel: Wir wollen einen Quader errichten, welcher als Startposition 1, 2, 3 und als Zielposition 9, 8, 7, und aus Gold(hat die Blocknummer 41) bestehen soll:
+
+mc.setBlocks(1, 2, 3, 9, 8, 7, 41)
+
+In diesem Fall hat der Quader auf der x-Achse eine Länge von 8 (9 - 1), auf der Y-Achse eine Länge von 6 (8 - 2) und auf der Z-Achse eine Länge von 4 (7 - 3).
+
+Wir können die Zahlen auch durch Variablen angeben:
+
+x_start = 1
+y_start = 2
+z_start = 3
+x_ziel = 9
+y_ziel = 8
+z_ziel = 7
+gold = 41
+mc.setBlocks(x_start, y_start, z_start, x_ziel, y_ziel, z_ziel, gold) <-- Führt zum selben(!) Ergebnis

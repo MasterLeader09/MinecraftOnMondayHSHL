@@ -1,0 +1,19 @@
+Die Funktion "mc.setBlock()" setzt einen Block an die Position, die in den Klammern angegeben wird.
+
+Die Funktion erwartet 4 Zahlen!
+
+Die ersten 3 geben die Position an!
+
+Die 4te Zahl gibt den Blocktyp an!
+
+Beispiel: Wir wollen einen Block Golderz (hat die Nummer 14) an die Position 3, 4, 5 setzen, so setzen schreiben wir es wie folgt:
+
+mc.setBlock(3, 4, 5, 14)
+
+Alle Zahlen können auch als Variablen angegeben werden:
+
+x = 3
+y = 4
+z = 5
+golderz = 14
+mc.setBlock(x, y, z, golderz) <-- Führt zum selben(!) Ergebnis

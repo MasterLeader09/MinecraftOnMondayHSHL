@@ -1,0 +1,14 @@
+Bei der Funktion "mc.player.setPos()" auf die Position, welche in den Klammern angegeben wird.
+
+Diese Funktion erwartet 3 Zahlen! Die Zahlen können sowohl ganze, als auch Kommazahlen sein
+
+Beispiel: Wir wollen deinen Avatar auf die Position 2, 0, 7 setzen:
+
+mc.player.setPos(2, 0, 7)
+
+Die Zahlen können auch durch Variablen angegeben werden:
+
+x = 2
+y = 0
+z = 7
+mc.player.setPos(x, y, z)

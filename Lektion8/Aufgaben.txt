@@ -1,0 +1,9 @@
+1. treppenbauMitFehlerbehandlung.py
+--> In diesem Programm soll eine einfache Treppe gebaut werden
+--> Ändere das Programm so, dass es nicht abstürzt, wenn der Benutzer einen Buchstaben oder ein Sonderzeichen eingibt
+
+2. bruckblock.py
+--> In diesem Programm werden Blöcke in realativer Nähe zum Spieler zufällig gesetzt
+--> Da die Position auf der X-Achse u.a. durch eine Division bestimmt wird, bei der der Divisor durch eine Zufallszahl bestimmt wird, kann hier auch eine 0 als Divisor eingetragen werden
+--> Da eine Division durch 0 nicht möglich ist, musst du das Programm so ERWEITERN, dass es darauf reagieren kann, wenn als Divisor eine 0 bestimmt wird
+-->!!!Wichtig: Die randint Funktion darf nicht verändert werden!!!

@@ -1,0 +1,20 @@
+1. ausgaben.py
+	--> Dieses Programm fragt dich nach deinem Namen. Nach der Eingabe wirst du in Minecraft gegrüßt
+	--> Schreibe eine Funktion mit dem Namen "ausgabe". Diese Funktion soll einen Parameter empfangen (deinen Namen als Variable) und dich dann ebenfalls im Spiel grüßen
+
+2. positionSpieler.py
+	--> Dieses Programm ermittelt dei Position des Spielers und gibt diese in Minecraft aus
+	--> Estelle in diesem Prgramm zwei Funktionen
+	--> Die erste Funktion soll die Position des Avatars ermitteln und alle drei Koordinaten zurückgeben
+	--> Die zweite Funktion soll die erste Funktion aufrufen und dann die Standortdaten in Minecraft ausgeben
+	--> Rufe die zweite Funktion in einer Endlosschleife auf
+
+3. blockpruefer.py
+	--> Dieses Programm ist noch leer
+	--> Importiere die erste Funktion aus positionSpieler mit dem import-Befehl
+	--> Schreibe eine Funktion, welche die Blocknummer unter deinem Avatar prüft und diese zurück gibt
+	--> Schreibe eine weitere Funktion, welche deine Blockrüffunktion aufruft und dann diese Nummer als Text in Minecraft ausgibt
+	--> kopiere das Skript blockIds.py aus dem Ordner Sonstiges in den Ordner Lektion4
+	--> Importiere die List iDDs mit dem Import Befehl
+	--> Verändere deine Ausgabefunktion so, dass anstatt der Blocknummer, der Name des Blocks ausgegeben wird
+	--> TIPP: Lies dazu das Skript zugriff.py aus dem Ordner Sonstiges

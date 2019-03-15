@@ -1,0 +1,11 @@
+Die Funktion "mc.events.pollBlockHits" gibt die Daten der von dir mit dem Schwert getroffenen Blöcke in einer Liste aus.
+
+Da die Funktion Werte zurück gibt, müssen diese in einer Variable gespeichert werden.
+
+Beispiel: Wir wollen unsere Treffer in der Variable mit dem Namen blockHits abspeichern:
+
+blockHits = mc.events.pollBlockHits()
+
+!!!Wichtig: Es werden nur die Blöcke gespeichert, welche mit der rechten Maustaste getroffen worden sind!!!
+!!!Wichtig: Es werden nur die Blöcke gespeichert, welche zum Zeitpunkt des Funktionsaufrufs bereits getroffen wurden!!!
+!!!Wichtig: Nachdem die Funktion aufgerufen worden ist, werden deine Treffer wieder auf 0 zurück gesetzt!!!

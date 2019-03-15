@@ -1,0 +1,16 @@
+Die Funktion "mc.getBlock" gibt den Blocktyp als Zahl von der in der Klammer angegebenen Position zurück(!).
+
+Die Funktion erwartet daher 3 Zahlen!
+
+Da diese Funktion eine Zahl zurück gibt, muss diese in einer Variable abgespeichert werden.
+
+Beispiel: Wir wollen die Blocknummer von dem Block an der Position 2, 7, 10 bekommen und diese Zahl in der Variable blocktyp abspeichern
+
+blocktyp = mc.getBlock(2, 7, 10)
+
+Die Koordinaten können auch als Variablen angegeben werden:
+
+x = 2
+y = 7
+z = 10
+blocktyp = mc.getBlock(x, y, z)
