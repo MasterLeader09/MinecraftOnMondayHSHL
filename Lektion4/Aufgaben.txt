@@ -3,7 +3,7 @@
 	--> Schreibe eine Funktion mit dem Namen "ausgabe". Diese Funktion soll einen Parameter empfangen (deinen Namen als Variable) und dich dann ebenfalls im Spiel grüßen
 
 2. positionSpieler.py
-	--> Dieses Programm ermittelt dei Position des Spielers und gibt diese in Minecraft aus
+	--> Dieses Programm ermittelt die Position des Spielers und gibt diese in Minecraft aus
 	--> Estelle in diesem Prgramm zwei Funktionen
 	--> Die erste Funktion soll die Position des Avatars ermitteln und alle drei Koordinaten zurückgeben
 	--> Die zweite Funktion soll die erste Funktion aufrufen und dann die Standortdaten in Minecraft ausgeben
