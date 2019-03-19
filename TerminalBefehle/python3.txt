@@ -1,0 +1,8 @@
+Der Befehlt python3 führt ein Python-Skript aus. Für die Anwendung wird zunächst
+Python3 in das Terminal eingegeben. Danach muss der Name des auszuführenden Programms eingegeben werden.
+
+Beispiel wir möchten das Programm mti dem Namen "hallo.py" ausführen:
+
+python3 hallo.py
+
+

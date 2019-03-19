@@ -13,5 +13,5 @@ mc.postToChat(str(zahl))
 
 Wir können auch mehrere Sachen ausgeben - dafür müssen wir die einzelnen Ausgaben durch ein + verbinden. Z.B. einen Text und eine Variable:
 
-Pfede = 2
+Pferde = 2
 mc.postToChat("Ich habe " + str(Pferde) + " Pferde") <-- gibt den Text "Ich habe 2 Pferde" aus
