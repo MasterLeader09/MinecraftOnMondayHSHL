@@ -1,0 +1,9 @@
+Einen ssh-key Erstellen:
+
+Öffne ein neues Terminal oder gebe in dein aktuelles Terminal "cd" ein und bestätige mit "Enter"
+
+Einen neuen Schlüssel erstellst du durch das Eingeben und Bestätigen des folgenden Befehls (!!!Achtung: Zwischen die Anführungsstriche eigene Email-Adresse eintragen!!!)
+
+ssh-keygen -t rsa -C "Zwischen diesen Anführungsstrichen muss deine E-Mailadresse stehen" -b 4096
+
+Falls es nicht funktioniert hat, lies dir die Anweisung zwischen den Anführungsstrichen druch!!!

@@ -1,0 +1,11 @@
+Public Key (SSH) lesen:
+
+Für das Lesen des SSH-Keys musst DU diesen VORHER erstellt haben. Falls DU noch keinen SSH-Key auf DIESEM PC erstellt hast, hole dies nach (siehe hierzu: "SSH-Key erstellen" an)
+
+Öffne ein neues Terminal oder gebe in dein bestehendes "cd" ein und bestätige mit "Enter"
+
+Gebe "cd .ssh" in dein Terminal ein und bestätige wiederum mit "Enter"
+
+Gebe nun "cat id_rsa.pub" ein und bestätige wiederum mit "Enter"
+
+Nun erscheint in deinem Terminal dein Public Key deines SSH-Keys. Diesen kannst du mit deiner Maus markieren und kopieren.
