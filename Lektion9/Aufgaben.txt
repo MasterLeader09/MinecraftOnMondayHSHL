@@ -1,0 +1,4 @@
+1. teleportiere_Avatar_fehlerfrei.py
+	--> Schreibe ein Programm, in dem dein Avatar teleportiert wird
+	--> Die neue Position des Avatars soll durch eine Eingabe durch die Tastatur erfolgen
+	--> Die Positionsdaten sollen erneut abgefragt werden, wenn die Eingaben ungültig sind (z.B. wenn ein Buchstabe eingegeben wurde)
