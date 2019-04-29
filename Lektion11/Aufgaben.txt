@@ -1,1 +1,3 @@
 Schreibe ein Programm, welches deine Schule in der Minecraftwelt baut! ;-) :-D
+Finde dich dazu mit den anderen Schülern deiner Schule aus diesem Kurs zusammen und schreibt dieses Programm zusammen.
+Sollten die anderen Schüler noch nicht mit den anderen Lektionen fertig sein, hilf ihnen.
