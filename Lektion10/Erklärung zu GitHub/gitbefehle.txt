@@ -1,0 +1,19 @@
+1. Wenn du Änderungen an deinem Respository vorgenommen hast, musst du sie zunächst "adden" mit dem folgenden Befehl:
+
+git add .
+
+2. Bevor du geänderte Datein in deinen Account laden kannts, musst du sie kommentieren. Der Kommentar sollte angeben, welche Änderungen du vorgenommen hast. Mit folgendem Befehl führst du diese Aktion aus:
+
+git commit -avm"Hier muss dein Kommentar stehen"
+
+3. Zum Hochladen musst du folgenden Befehl verwenden:
+
+git push
+
+4. Zum Aktulisieren deines Repositorys auf deinem Computer musst du folgenden Befehl verwenden:
+
+git pull
+
+5. Wenn du ein neues Repository herunterladen möchtest, musst du folgenden Befehl verwenden:
+
+git clone Hier_steht_der_Link_zu_deinem_Repsoitory

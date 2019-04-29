@@ -1,1 +1,5 @@
-1.
+1. Lege bei Github (www.github.com) einen Account an.
+2. Erstelle ein eigenes Repository
+3. Lade dein Repository auf deinen Computer herunter
+4. Speichere deine Minecraft-Datein in deinem Repository
+5. Führe ein Update deines Repositorys durch, sodass deine Minecraft-Datein auch in deinem Github-Account gespeichert werden
