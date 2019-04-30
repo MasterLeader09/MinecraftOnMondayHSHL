@@ -1,0 +1,7 @@
+1. gelaendemessung.py
+	--> Schreibe ein Programm, welches zu beginn die Position deines Spielers ermittelt
+	--> Danach soll das Programm immer den Abstand zu von deinem Avatar zu diesem Referenzpunkt ermitteln
+
+2. scoringsaeule.py
+	--> Schreibe ein Programm, welches eine 10 Blöcke große Säule aus Glas baut
+	--> Erweitere das Programm so, dass für jeden Treffer an einem Block (mit der rechten Maustaste) von unten aus ein Glasblock deiner Säule durch einen Goldblock ersetzt wird
