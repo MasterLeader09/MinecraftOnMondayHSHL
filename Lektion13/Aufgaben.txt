@@ -1,6 +1,7 @@
 1. billyjeans.py
     --> Schreibe ein Programm welches egal wo dein Avatar hinläuft einen Goldblock an die Füße deines Avatars setzt
     --> Der Goldblock soll allerdings wieder verschwinden, wenn der Avatar nicht mehr auf ihm steht
+    --> An der alten Stelle soll wieder der Block erscheinen, welcher sich dort befand, bevor er durch Gold ersetzt wurde
 
 2. suchdenort.py
     --> Hier sollst du ein Spiel erstellen
