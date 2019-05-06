@@ -5,3 +5,8 @@
 2. scoringsaeule.py
 	--> Schreibe ein Programm, welches eine 10 Blöcke große Säule aus Glas baut
 	--> Erweitere das Programm so, dass für jeden Treffer an einem Block (mit der rechten Maustaste) von unten aus ein Glasblock deiner Säule durch einen Goldblock ersetzt wird
+
+3. obsidianhaus.py
+    --> Schreibe ein Programm, welches ein Haus aus Obsidian baut
+    --> Über deinem Haus soll eine Schicht aus Lava gebaut werden, welche wie eine zweite Haut auf dem Haus liegt
+    --> Das Haus muss auch dann noch ohne Verbrennungsfolgen davon zu tragen betretbar sein

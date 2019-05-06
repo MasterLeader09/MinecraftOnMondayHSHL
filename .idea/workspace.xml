@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99abe0d-41cb-4963-a939-18fe8cc6481a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lektion12/Aufgaben.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion12/Aufgaben.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +11,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lektion12/Aufgaben.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,6 +31,7 @@
       <list>
         <option value="$PROJECT_DIR$/Lektion9/Aufgaben.txt" />
         <option value="$PROJECT_DIR$/Lektion10/Aufgaben.txt" />
+        <option value="$PROJECT_DIR$/Lektion12/Aufgaben.txt" />
       </list>
     </option>
   </component>
@@ -45,6 +56,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -52,11 +64,15 @@
               <item name="MinecraftOnMondayHSHL" type="b2602c69:ProjectViewProjectNode" />
               <item name="MinecraftOnMondayHSHL" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MinecraftOnMondayHSHL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MinecraftOnMondayHSHL" type="462c0819:PsiDirectoryNode" />
+              <item name="Lektion12" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,6 +138,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="4" column="124" selection-start-line="4" selection-start-column="124" selection-end-line="4" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lektion12/Aufgaben.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
         </state>
       </provider>
     </entry>
