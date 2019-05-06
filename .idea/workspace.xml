@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f99abe0d-41cb-4963-a939-18fe8cc6481a" name="Default Changelist" comment="" />
+    <list default="true" id="f99abe0d-41cb-4963-a939-18fe8cc6481a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Lektion13/Aufgaben.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Lektion13/Aufgaben.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lektion13/Aufgaben.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="13" column="103" selection-start-line="13" selection-start-column="103" selection-end-line="13" selection-end-column="103" />
+            <state relative-caret-position="204">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -62,11 +64,6 @@
             <path>
               <item name="MinecraftOnMondayHSHL" type="b2602c69:ProjectViewProjectNode" />
               <item name="MinecraftOnMondayHSHL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MinecraftOnMondayHSHL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MinecraftOnMondayHSHL" type="462c0819:PsiDirectoryNode" />
-              <item name="Lektion13" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -150,8 +147,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lektion13/Aufgaben.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="13" column="103" selection-start-line="13" selection-start-column="103" selection-end-line="13" selection-end-column="103" />
+        <state relative-caret-position="204">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
         </state>
       </provider>
     </entry>

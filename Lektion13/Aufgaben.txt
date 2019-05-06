@@ -1,4 +1,4 @@
-1. tracking.py
+1. billyjeans.py
     --> Schreibe ein Programm welches egal wo dein Avatar hinläuft einen Goldblock an die Füße deines Avatars setzt
     --> Der Goldblock soll allerdings wieder verschwinden, wenn der Avatar nicht mehr auf ihm steht
 
@@ -12,3 +12,7 @@
     --> In diesem Ordner soll ein Textdoktument angelegt werden, in welchem die Statistik jedes einzelnen Spiels festgehalten wird
     --> Zu speichern sind folgende Daten (Erfolg/Scheitern, benötigte Zeit, Datum, Uhrzeit(des Spielbeginns))
     --> Wenn ein Spiel vorüber ist, soll auch immer die Statistik des besten Versuchs ausgegeben werden
+
+3. tracking.py
+    --> Schreibe ein Programm welches feststellt, ob der Avatar sich gerade bewegt, oder still steht
+    --> Wenn der Avatar sich bewegt, soll ausgegeben werden, in welche Richtung sich der Avatar bewegt
