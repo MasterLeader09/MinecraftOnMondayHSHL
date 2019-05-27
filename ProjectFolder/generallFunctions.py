@@ -7,3 +7,9 @@ def positionPlayer():
     y = pos.y
     z = pos.z
     return x, y, z
+
+def getSmallValue(value1, value2):
+    if value1 < value2:
+        return value1
+    else:
+        return value2
